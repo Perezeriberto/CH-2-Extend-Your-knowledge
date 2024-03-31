@@ -23,9 +23,11 @@ DOCTYPE.html
     <!-- use this main area to add the main content of the webpage -->
     <main> 
     
-    <p>
+    <p>Learnig HTML.<p>
     </main>    
 =
     <!--  use the footer area to add webpage footer contact -->
     <footer>
+      <p>Add contact information here</p>
+      <p>&copy; Copyright 2021. All Rights Reserved.</p>
     </footer>
